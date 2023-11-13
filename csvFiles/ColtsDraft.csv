@@ -1,0 +1,252 @@
+Year,Rnd,Player,Pick,Pos,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ,-9999
+2023,1,Anthony Richardson,4,QB,2023,0,0,0,0,4,50,84,577,3,1,25,136,4,,,0,,,Florida,RichAn03
+2023,2,Julius Brents,44,DB,2023,0,0,0,0,5,0,0,0,0,0,,,0,,,0,1,,Kansas St.,BrenJu00
+2023,3,Josh Downs,79,WR,2023,0,0,0,0,9,0,0,0,0,0,,,0,41,483,2,,,North Carolina,DownJo00
+2023,4,Blake Freeland,106,OL,2023,0,0,0,0,8,0,0,0,0,0,,,0,,,0,,,BYU,FreeBl00
+2023,4,Adetomiwa Adebawore,110,DL,2023,0,0,0,0,5,0,0,0,0,0,,,0,,,0,,1.0,Northwestern,AdebAd00
+2023,5,Darius Rush,138,DB,2023,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,South Carolina,RushDa00
+2023,5,Daniel Scott,158,S,,0,0,0,,,,,,,,,,,,,,,,California,ScotDa03
+2023,5,Will Mallory,162,TE,2023,0,0,0,0,4,0,0,0,0,0,,,0,3,55,0,,,Miami (FL),MallWi00
+2023,5,Evan Hull,176,RB,2023,0,0,0,0,1,0,0,0,0,0,1,1,0,1,6,0,,,Northwestern,HullEv00
+2023,6,Titus Leo,211,LB,,0,0,0,,,,,,,,,,,,,,,,Wagner,LeoxTi00
+2023,7,Jaylon Jones,221,DB,2023,0,0,0,0,9,0,0,0,0,0,,,0,,,0,,,Texas A&M,JoneJa13
+2023,7,Jake Witt,236,OL,,0,0,0,,,,,,,,,,,,,,,,Northern Michigan,WittJa01
+2022,2,Alec Pierce,53,WR,2023,0,0,1,4,25,0,0,0,0,0,,,0,58,836,2,,,Cincinnati,PierAl00
+2022,3,Jelani Woods,73,TE,2022,0,0,0,2,15,0,0,0,0,0,,,0,25,312,3,,,Virginia,WoodJe01
+2022,3,Bernhard Raimann,77,OL,2023,0,0,1,5,23,0,0,0,0,0,,,0,,,0,,,Central Michigan,RaimBe00
+2022,3,Nick Cross,96,DB,2023,0,0,0,2,25,0,0,0,0,0,,,0,,,0,,,Maryland,CrosNi00
+2022,5,Eric Johnson,159,DT,2023,0,0,0,1,22,0,0,0,0,0,,,0,,,0,,0.5,Missouri State,JohnEr01
+2022,6,Andrew Ogletree,192,TE,2023,0,0,0,0,8,0,0,0,0,0,,,0,9,147,2,,,Youngstown St.,OgleAn00
+2022,6,Curtis Brooks,216,DT,,0,0,0,,,,,,,,,,,,,,,,Cincinnati,BrooCu00
+2022,7,Rodney Thomas II,239,LB,2023,0,0,1,4,26,0,0,0,0,0,,,0,,,0,5,,Yale,ThomRo07
+2021,1,Kwity Paye,21,DL,2023,0,0,2,13,35,0,0,0,0,0,,,0,,,0,,13.5,Michigan,PayeKw00
+2021,2,Dayo Odeyingbo,54,DL,2023,0,0,0,4,36,0,0,0,0,0,,,0,,,0,,8.5,Vanderbilt,OdeyDa00
+2021,4,Kylen Granson,127,TE,2023,0,0,0,3,37,0,0,0,0,0,1,0,0,58,578,1,,,SMU,GranKy00
+2021,5,Shawn Davis,165,DB,2021,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Florida,DaviSh02
+2021,6,Sam Ehlinger,218,QB,2022,0,0,0,2,7,64,101,573,3,3,20,96,0,,,0,,,Texas,EhliSa00
+2021,7,Mike Strachan,229,WR,2023,0,0,0,0,20,0,0,0,0,0,,,0,6,130,0,,,Charleston (WV),StraMi03
+2021,7,Will Fries,248,OL,2023,0,0,1,3,28,0,0,0,0,0,,,0,,,0,,,Penn St.,FrieWi00
+2020,2,Michael Pittman Jr.,34,WR,2023,0,0,3,23,55,0,0,0,0,0,11,100,0,285,3103,14,,,USC,PittMi01
+2020,2,Jonathan Taylor,41,RB,2023,1,1,3,32,48,0,0,0,0,0,818,4095,34,119,933,4,,,Wisconsin,TaylJo02
+2020,3,Julian Blackmon,85,S,2023,0,0,2,11,44,0,0,0,0,0,,,0,,,0,5,1.0,Utah,BlacJu01
+2020,4,Jacob Eason,122,QB,2022,0,0,0,0,2,5,10,84,0,2,,,0,,,0,,,Washington,EasoJa00
+2020,5,Danny Pinter,149,G,2022,0,0,0,5,46,0,0,0,0,0,,,0,1,2,1,,,Ball St.,PintDa00
+2020,6,Robert Windsor,193,DT,2020,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Penn St.,WindRo01
+2020,6,Isaiah Rodgers,211,CB,2022,0,0,1,8,45,0,0,0,0,0,,,0,,,0,3,,Massachusetts,RodgIs00
+2020,6,Dezmon Patmon,212,WR,2022,0,0,0,0,10,0,0,0,0,0,,,0,4,45,1,,,Washington St.,PatmDe00
+2020,6,Jordan Glasgow,213,LB,2021,0,0,0,2,25,0,0,0,0,0,,,0,,,0,,,Michigan,GlasJo00
+2019,2,Rock Ya-Sin,34,CB,2023,0,0,1,13,60,0,0,0,0,0,,,0,,,0,2,,Temple,Ya-SRo00
+2019,2,Ben Banogu,49,LB,2022,0,0,0,4,50,0,0,0,0,0,,,0,,,0,,2.5,TCU,BanoBe00
+2019,2,Parris Campbell,59,WR,2023,0,0,1,9,41,0,0,0,0,0,11,108,0,115,1083,5,,,Ohio St.,CampPa00
+2019,3,Bobby Okereke,89,LB,2023,0,0,4,22,73,0,0,0,0,0,,,0,,,0,4,2.0,Stanford,OkerBo00
+2019,4,Khari Willis,109,S,2021,0,0,1,12,39,0,0,0,0,0,,,0,,,0,4,3.5,Michigan St.,WillKh00
+2019,5,Marvell Tell III,144,S,2019,0,0,0,1,13,0,0,0,0,0,,,0,,,0,,,USC,TellMa00
+2019,5,E.J. Speed,164,LB,2023,0,0,0,6,70,0,0,0,0,0,,,0,,,0,,2.0,Tarleton St.,SpeeEJ00
+2019,6,Gerri Green,199,DE,2022,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Mississippi St.,GreeGe00
+2019,7,Jackson Barton,240,T,2023,0,0,0,0,9,0,0,0,0,0,,,0,,,0,,,Utah,BartJa00
+2019,7,Javon Patterson,246,C,2020,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Mississippi,PattJa00
+2018,1,Quenton Nelson,6,G,2023,3,5,5,55,87,0,0,0,0,0,1,0,0,,,0,,,Notre Dame,NelsQu00
+2018,2,Shaquille Leonard,36,LB,2023,3,3,4,56,69,0,0,0,0,0,,,0,,,0,12,15.0,South Carolina St.,LeonDa00
+2018,2,Braden Smith,37,G,2023,0,0,5,32,77,0,0,0,0,0,,,0,,,0,,,Auburn,SmitBr06
+2018,2,Kemoko Turay,52,OLB,2022,0,0,0,5,41,0,0,0,0,0,,,0,,,0,,12.0,Rutgers,TuraKe00
+2018,2,Tyquan Lewis,64,DE,2023,0,0,0,10,57,0,0,0,0,0,,,0,,,0,1,10.5,Ohio St.,LewiTy00
+2018,4,Nyheim Hines,104,RB,2022,0,0,0,25,81,0,0,0,0,0,306,1202,10,240,1778,8,,,North Carolina St.,HineNy00
+2018,5,Daurice Fountain,159,WR,2021,0,0,0,0,8,0,0,0,0,0,,,0,2,23,0,,,Northern Iowa,FounDa00
+2018,5,Jordan Wilkins,169,RB,2022,0,0,0,8,54,0,0,0,0,0,208,1009,4,41,262,0,,,Mississippi,WilkJo01
+2018,6,Deon Cain,185,WR,2020,0,0,0,1,15,0,0,0,0,0,,,0,9,124,0,,,Clemson,CainDe00
+2018,7,Matthew Adams,221,LB,2023,0,0,1,11,76,0,0,0,0,0,,,0,,,0,,,Houston,AdamMa00
+2018,7,Zaire Franklin,235,LB,2023,0,0,2,17,90,0,0,0,0,0,,,0,,,0,1,4.5,Syracuse,FranZa00
+2017,1,Malik Hooker,15,S,2023,0,0,3,17,75,0,0,0,0,0,,,0,,,0,12,,Ohio St.,HookMa00
+2017,2,Quincy Wilson,46,CB,2022,0,0,0,4,33,0,0,0,0,0,,,0,,,0,2,,Florida,WilsQu01
+2017,3,Tarell Basham,80,DE,2022,0,0,1,13,82,0,0,0,0,0,,,0,,,0,1,11.0,Ohio,BashTa00
+2017,4,Zach Banner,137,T,2021,0,0,0,2,30,0,0,0,0,0,,,0,,,0,,,USC,BannZa00
+2017,4,Marlon Mack,143,RB,2022,0,0,2,20,55,0,0,0,0,0,583,2568,21,65,547,3,,,South Florida,MackMa00
+2017,4,Grover Stewart,144,DT,2023,0,0,4,28,102,0,0,0,0,0,,,0,,,0,,8.5,Albany State (GA),StewGr00
+2017,5,Nate Hairston,158,CB,2022,0,0,1,9,61,0,0,0,0,0,,,0,,,0,2,2.0,Temple,HairNa00
+2017,5,Anthony Walker,161,LB,2023,0,0,4,27,81,0,0,0,0,0,,,0,,,0,3,4.5,Northwestern,WalkAn01
+2016,1,Ryan Kelly,18,C,2023,0,3,7,47,104,0,0,0,0,0,,,0,1,-4,0,,,Alabama,KellRy00
+2016,2,T.J. Green,57,S,2021,0,0,0,6,41,0,0,0,0,0,,,0,,,0,,,Clemson,GreeT.00
+2016,3,Le'Raven Clark,82,T,2022,0,0,0,12,64,0,0,0,0,0,,,0,,,0,,,Texas Tech,ClarLe01
+2016,4,Hassan Ridgeway,116,DT,2023,0,0,0,13,80,0,0,0,0,0,,,0,,,0,,10.5,Texas,RidgHa00
+2016,4,Antonio Morrison,125,ILB,2018,0,0,2,13,47,0,1,0,0,0,,,0,,,0,,1.0,Florida,MorrAn01
+2016,5,Joe Haeg,155,T,2022,0,0,2,22,80,0,0,0,0,0,,,0,,,0,,,North Dakota St.,HaegJo00
+2016,7,Trevor Bates,239,LB,2018,0,0,0,1,10,0,0,0,0,0,,,0,,,0,,,Maine,BateTr00
+2016,7,Austin Blythe,248,C,2022,0,0,4,33,92,0,0,0,0,0,,,0,,,0,,,Iowa,BlytAu00
+2015,1,Phillip Dorsett,29,WR,2023,0,0,0,16,93,0,1,0,0,0,14,84,0,151,2001,12,,,Miami (FL),DorsPh00
+2015,3,D'Joun Smith,65,CB,2016,0,0,0,0,5,0,0,0,0,0,,,0,,,0,,,Florida Atlantic,SmitDJ00
+2015,3,Henry Anderson,93,DE,2022,0,0,4,21,89,0,0,0,0,0,,,0,,,0,,11.5,Stanford,AndeHe00
+2015,4,Clayton Geathers,109,S,2019,0,0,3,13,56,0,0,0,0,0,,,0,,,0,1,,Central Florida,GeatCl00
+2015,5,David Parry,151,NT,2018,0,0,2,13,36,0,0,0,0,0,,,0,,,0,,5.0,Stanford,ParrDa00
+2015,6,Josh Robinson,205,RB,2015,0,0,0,0,5,0,0,0,0,0,17,39,0,6,33,0,,,Mississippi St.,RobiJo02
+2015,6,Amarlo Herrera,207,ILB,2015,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Georgia,HerrAm00
+2015,7,Denzelle Good,255,T,2021,0,0,2,21,62,0,0,0,0,0,,,0,,,0,,,Mars Hill,GoodDe01
+2014,2,Jack Mewhort,59,T,2017,0,0,4,22,45,0,0,0,0,0,,,0,,,0,,,Ohio St.,MewhJa00
+2014,3,Donte Moncrief,90,WR,2020,0,0,3,18,83,0,0,0,0,0,6,20,0,205,2576,21,,,Mississippi,MoncDo00
+2014,5,Jonathan Newsome,166,LB,2015,0,0,0,4,30,0,0,0,0,0,,,0,,,0,,7.5,Ball St.,NewsJo00
+2014,6,Andrew Jackson,203,LB,2014,0,0,0,1,13,0,0,0,0,0,,,0,,,0,,1.0,Western Kentucky,JackAn02
+2014,7,Ulrick John,232,OL,2017,0,0,0,2,10,0,0,0,0,0,,,0,,,0,,,Georgia St.,JohnUl00
+2013,1,Bjoern Werner,24,DE,2015,0,0,1,10,38,0,0,0,0,0,,,0,,,0,,6.5,Florida St.,WernBj00
+2013,3,Hugh Thornton,86,G,2015,0,0,3,16,37,0,0,0,0,0,,,0,,,0,,,Illinois,ThorHu00
+2013,4,Khaled Holmes,121,C,2015,0,0,0,4,17,0,0,0,0,0,,,0,,,0,,,USC,HolmKh00
+2013,5,Montori Hughes,139,DT,2016,0,0,0,2,25,0,0,0,0,0,,,0,,,0,,,UT Martin,HughMo00
+2013,6,John Boyett,192,DB,,0,0,0,,,,,,,,,,,,,,,,Oregon,BoyeJo00
+2013,7,Kerwynn Williams,230,RB,2017,0,0,0,6,39,0,0,0,0,0,218,971,4,15,126,0,,,Utah St.,WillKe05
+2013,7,Justice Cunningham,254,TE,2015,0,0,0,0,4,0,0,0,0,0,,,0,1,4,0,,,South Carolina,CunnJu00
+2012,1,Andrew Luck,1,QB,2018,0,4,5,72,86,2000,3290,23671,171,83,332,1590,14,1,4,0,,,Stanford,LuckAn00
+2012,2,Coby Fleener,34,TE,2017,0,0,4,25,87,0,0,0,0,0,1,2,1,255,3080,22,1,,Stanford,FleeCo00
+2012,3,Dwayne Allen,64,TE,2018,0,0,4,12,86,0,0,0,0,0,4,6,0,139,1564,20,,,Clemson,AlleDw00
+2012,3,T.Y. Hilton,92,WR,2022,0,4,8,72,146,0,1,0,0,0,9,55,0,638,9812,53,,,Florida International,HiltT.00
+2012,5,Josh Chapman,136,NT,2014,0,0,1,7,29,0,0,0,0,0,,,0,,,0,,,Alabama,ChapJo00
+2012,5,Vick Ballard,170,RB,2013,0,0,1,5,17,0,0,0,0,0,224,877,2,18,147,1,,,Mississippi St.,BallVi00
+2012,6,LaVon Brazill,206,WR,2013,0,0,0,3,25,0,0,0,0,0,,,0,23,347,3,,,Ohio,BrazLa00
+2012,7,Justin Anderson,208,OL,,0,0,0,,,,,,,,,,,,,,,,Georgia,AndeJu00
+2012,7,Tim Fugger,214,DE,,0,0,0,,,,,,,,,,,,,,,,Vanderbilt,FuggTi00
+2012,7,Chandler Harnish,253,QB,,0,0,0,,,,,,,,,,,,,,,,Northern Illinois,HarnCh00
+2011,1,Anthony Castonzo,22,T,2020,0,0,10,58,144,0,0,0,0,0,,,0,1,1,1,,,Boston Col.,CastAn00
+2011,2,Ben Ijalana,49,T,2017,0,0,1,6,34,0,0,0,0,0,,,0,,,0,,,Villanova,IjalBe00
+2011,3,Drake Nevis,87,DT,2013,0,0,0,4,26,0,0,0,0,0,,,0,,,0,,1.0,LSU,NeviDr00
+2011,4,Delone Carter,119,RB,2013,0,0,0,3,27,0,0,0,0,0,133,499,5,6,31,0,,,Syracuse,CartDe01
+2011,6,Chris Rucker,188,DB,2011,0,0,0,2,15,0,0,0,0,0,,,0,,,0,,,Michigan St.,RuckCh00
+2010,1,Jerry Hughes,31,DE,2023,0,0,9,67,209,0,0,0,0,0,,,0,,,0,2,68.0,TCU,HughJe99
+2010,2,Pat Angerer,63,LB,2013,0,0,3,18,54,0,0,0,0,0,,,0,,,0,2,2.5,Iowa,AngePa99
+2010,3,Kevin Thomas,94,DB,2011,0,0,0,2,9,0,0,0,0,0,,,0,,,0,,,USC,ThomKe99
+2010,4,Jacques McClendon,129,G,2015,0,0,0,3,25,0,0,0,0,0,,,0,,,0,,,Tennessee,McClJa20
+2010,5,Brody Eldridge,162,TE,2011,0,0,2,0,27,0,0,0,0,0,,,0,14,84,0,,,Oklahoma,EldrBr00
+2010,7,Ricardo Mathews,238,DT,2016,0,0,0,14,96,0,0,0,0,0,,,0,,,0,,5.0,Cincinnati,MathRi99
+2010,7,Kavell Conner,240,LB,2015,0,0,3,20,78,0,0,0,0,0,,,0,,,0,,2.0,Clemson,ConnKa99
+2010,7,Ray Fisher,246,DB,,0,0,0,,,,,,,,,,,,,,,,Indiana,-9999
+2009,1,Donald Brown,27,RB,2015,0,0,1,25,89,0,0,0,0,0,695,2829,18,120,1066,2,,,Connecticut,BrowDo00
+2009,2,Fili Moala,56,DT,2013,0,0,3,19,64,0,0,0,0,0,,,0,,,0,,3.5,USC,MoalFi99
+2009,3,Jerraud Powers,92,DB,2016,0,0,7,30,100,0,0,0,0,0,,,0,,,0,13,3.0,Auburn,PoweJe99
+2009,4,Austin Collie,127,WR,2013,0,0,0,18,49,0,0,0,0,0,2,1,0,179,1908,16,,,BYU,CollAu00
+2009,4,Terrance Taylor,136,DT,,0,0,0,,,,,,,,,,,,,,,,Michigan,-9999
+2009,6,Curtis Painter,201,QB,2013,0,0,1,2,14,148,287,1681,6,13,23,109,0,,,0,,,Purdue,PainCu00
+2009,7,Pat McAfee,222,K,2016,1,2,0,18,127,1,2,35,0,0,2,18,0,0,0,0,,,West Virginia,McAfPa44
+2009,7,Jaimie Thomas,236,T,2010,0,0,0,1,8,0,0,0,0,0,,,0,,,0,,,Maryland,ThomJa22
+2008,2,Mike Pollak,59,T,2014,0,0,2,26,81,0,0,0,0,0,,,0,,,0,,,Arizona St.,PollMi20
+2008,3,Philip Wheeler,93,LB,2016,0,0,3,29,133,0,0,0,0,0,,,0,,,0,,6.5,Georgia Tech,WheePh99
+2008,4,Jacob Tamme,127,TE,2016,0,0,2,21,130,0,0,0,0,0,,,0,259,2570,14,,,Kentucky,TammJa00
+2008,5,Marcus Howard,161,LB,2008,0,0,0,1,9,0,0,0,0,0,,,0,,,0,,1.5,Georgia,HowaMa99
+2008,6,Tom Santi,196,TE,2009,0,0,0,2,9,0,0,0,0,0,,,0,18,171,1,,,Virginia,SantTo00
+2008,6,Steve Justice,201,C,2008,0,0,0,1,8,0,0,0,0,0,,,0,,,0,,,Wake Forest,JustSt20
+2008,6,Mike Hart,202,RB,2010,0,0,0,3,21,0,0,0,0,0,71,264,2,12,97,0,,,Michigan,HartMi00
+2008,6,Pierre Garcon,205,WR,2018,0,0,10,54,148,0,1,0,0,0,12,72,0,628,7854,38,,,Mount Union,GarcPi00
+2008,7,Jamey Richard,236,T,2011,0,0,0,11,48,0,0,0,0,0,,,0,,,0,,,Buffalo,RichJa20
+2007,1,Anthony Gonzalez,32,WR,2011,0,0,1,16,40,0,0,0,0,0,,,0,99,1307,7,,,Ohio St.,GonzAn00
+2007,2,Tony Ugoh,42,T,2011,0,0,2,17,40,0,0,0,0,0,,,0,,,0,,,Arkansas,UgohTo20
+2007,3,Dante Hughes,95,DB,2011,0,0,0,4,53,0,0,0,0,0,,,0,,,0,1,,California,HughDa99
+2007,3,Quinn Pitcock,98,DT,2007,0,0,0,1,9,0,0,0,0,0,,,0,,,0,,1.5,Ohio St.,PitcQu99
+2007,4,Brannon Condren,131,DB,2008,0,0,0,1,12,0,0,0,0,0,,,0,,,0,,,Troy,CondBr99
+2007,4,Clint Session,136,LB,2011,0,0,2,20,57,0,0,0,0,0,,,0,,,0,4,2.5,Pittsburgh,SessCl99
+2007,5,Roy Hall,169,WR,2008,0,0,0,0,7,0,0,0,0,0,,,0,1,9,0,,,Ohio St.,HallRo02
+2007,5,Michael Coe,173,DB,2012,0,0,0,2,38,0,0,0,0,0,,,0,,,0,,,Alabama St.,CoexMi99
+2007,7,Keyunta Dawson,242,DE,2013,0,0,1,14,71,0,0,0,0,0,,,0,,,0,,1.5,Texas Tech,DawsKe99
+2006,1,Joseph Addai,30,RB,2011,0,1,4,50,78,1,1,22,1,0,1095,4453,39,191,1448,9,,,LSU,AddaJo00
+2006,2,Tim Jennings,62,DB,2015,0,2,6,43,137,0,0,0,0,0,,,0,,,0,20,,Georgia,JennTi20
+2006,3,Freddy Keiaho,94,LB,2009,0,0,2,15,55,0,0,0,0,0,,,0,,,0,1,1.5,San Diego St.,KeiaFr20
+2006,5,Michael Toudouze,162,G,2011,0,0,0,1,9,0,0,0,0,0,,,0,,,0,,,TCU,ToudMi20
+2006,6,Charlie Johnson,199,T,2014,0,0,7,52,134,0,0,0,0,0,,,0,1,-2,0,,,Oklahoma St.,JohnCh23
+2006,6,Antoine Bethea,207,DB,2019,0,3,12,63,209,0,0,0,0,0,,,0,,,0,25,9.5,Howard,BethAn20
+2006,7,T.J. Rushing,238,DB,2009,0,0,0,3,35,0,0,0,0,0,,,0,,,0,,,Stanford,RushT.20
+2005,1,Marlin Jackson,29,DB,2009,0,0,2,14,56,0,0,0,0,0,,,0,,,0,4,0.5,Michigan,JackMa22
+2005,2,Kelvin Hayden,60,DB,2012,0,0,4,24,101,0,0,0,0,0,,,0,,,0,12,,Illinois,HaydKe20
+2005,3,Vincent Burns,92,DE,,0,0,0,,,,,,,,,,,,,,,,Kentucky,-9999
+2005,4,Dylan Gandy,129,G,2013,0,0,1,19,120,0,0,0,0,0,,,0,,,0,,,Texas Tech,GandDy20
+2005,4,Matt Giordano,135,DB,2013,0,0,1,16,116,0,0,0,0,0,1,-5,0,,,0,11,1.0,California,GiorMa20
+2005,5,Jonathan Welsh,148,DE,2005,0,0,0,0,6,0,0,0,0,0,,,0,,,0,,,Wisconsin,WelsJo20
+2005,5,Robert Hunt,165,C,,0,0,0,,,,,,,,,,,,,,,,North Dakota St.,-9999
+2005,5,Tyjuan Hagler,173,LB,2010,0,0,1,12,50,0,0,0,0,0,,,0,,,0,1,2.0,Cincinnati,HaglTy20
+2005,6,Dave Rayner,202,K,2011,0,0,0,3,59,0,0,0,0,0,,,0,,,0,,,Michigan St.,raynedav01
+2005,7,Anthony Davis,243,RB,,0,0,0,,,,,,,,,,,,,,,,Wisconsin,-9999
+2004,2,Bob Sanders,44,DB,2011,2,2,2,33,50,0,0,0,0,0,,,0,,,0,6,3.5,Iowa,SandBo99
+2004,3,Ben Hartsock,68,TE,2013,0,0,2,2,131,0,0,0,0,0,,,0,31,312,1,,,Ohio St.,HartBe00
+2004,3,Gilbert Gardner,69,LB,2008,0,0,1,8,53,0,0,0,0,0,,,0,,,0,1,1.0,Purdue,GardGi20
+2004,4,Kendyll Pope,107,LB,2004,0,0,0,0,2,0,0,0,0,0,,,0,,,0,,,Florida St.,PopeKe20
+2004,4,Jason David,125,DB,2008,0,0,5,24,75,0,0,0,0,0,,,0,,,0,16,,Washington St.,DaviJa20
+2004,5,Jake Scott,141,G,2012,0,0,9,58,131,0,0,0,0,0,,,0,,,0,,,Idaho,ScotJa21
+2004,6,Von Hutchins,173,DB,2007,0,0,1,5,38,0,0,0,0,0,,,0,,,0,2,0.5,Mississippi,HutcVo20
+2004,6,Jim Sorgi,193,QB,2009,0,0,0,5,16,99,156,929,6,1,31,0,0,,,0,,,Wisconsin,SorgJi00
+2004,7,David Kimball,229,K,,0,0,0,,,,,,,,,,,,,,,,Penn St.,-9999
+2003,1,Dallas Clark,24,TE,2013,1,1,9,51,143,0,0,0,0,0,4,40,0,505,5665,53,,,Iowa,ClarDa00
+2003,2,Mike Doss,58,DB,2008,0,0,3,17,57,0,0,0,0,0,,,0,,,0,7,1.0,Ohio St.,DossMi20
+2003,3,Donald Strickland,90,DB,2011,0,0,0,12,89,0,0,0,0,0,,,0,,,0,2,4.0,Colorado,StriDo20
+2003,4,Steve Sciullo,122,G,2004,0,0,1,13,28,0,0,0,0,0,,,0,,,0,,,Marshall,SciuSt20
+2003,5,Robert Mathis,138,DE,2016,1,5,9,67,192,0,0,0,0,0,,,0,,,0,1,123.0,Alabama A&M,MathRo20
+2003,5,Keyon Whiteside,162,LB,2004,0,0,0,0,12,0,0,0,0,0,,,0,,,0,,,Tennessee,WhitKe20
+2003,6,Cato June,198,LB,2009,0,1,5,38,89,0,0,0,0,0,,,0,,,0,12,1.0,Michigan,JuneCa99
+2003,6,Makoa Freitas,208,T,2004,0,0,0,7,28,0,0,0,0,0,,,0,,,0,,,Arizona,FreiMa20
+2002,1,Dwight Freeney,11,DE,2017,3,7,11,81,218,0,0,0,0,0,,,0,,,0,,125.5,Syracuse,FreeDw00
+2002,2,Larry Tripplett,42,DT,2007,0,0,4,27,92,0,0,0,0,0,,,0,,,0,1,8.5,Washington,TripLa20
+2002,3,Joe Jefferson,74,DB,2005,0,0,0,3,27,0,0,0,0,0,,,0,,,0,1,,Western Kentucky,JeffJo20
+2002,4,David Thornton,106,LB,2009,0,0,7,42,121,0,0,0,0,0,,,0,,,0,5,5.0,North Carolina,ThorDa20
+2002,6,David Pugh,182,DT,2002,0,0,0,1,4,0,0,0,0,0,,,0,,,0,,,Virginia Tech,PughDa20
+2002,6,James Lewis,183,DB,,0,0,0,,,,,,,,,,,,,,,,Miami (FL),-9999
+2002,6,Brian Allen,204,RB,2003,0,0,0,0,4,0,0,0,0,0,,,0,,,0,,,Stanford,AlleBr20
+2002,7,Josh Mallard,220,DE,2008,0,0,0,5,40,0,0,0,0,0,,,0,,,0,,8.5,Georgia,MallJo20
+2001,1,Reggie Wayne,30,WR,2014,1,6,13,116,211,0,1,0,0,1,4,0,0,1070,14345,82,,,Miami (FL),WaynRe00
+2001,2,Idrees Bashir,37,DB,2007,0,0,4,19,71,0,0,0,0,0,,,0,,,0,6,,Memphis,BashId20
+2001,3,Cory Bird,91,DB,2004,0,0,0,6,45,0,0,0,0,0,,,0,,,0,,0.5,Virginia Tech,BirdCo20
+2001,4,Ryan Diem,118,T,2011,0,0,10,72,157,0,0,0,0,0,,,0,,,0,,,Northern Illinois,DiemRy20
+2001,5,Raymond Walls,152,DB,2005,0,0,0,4,41,0,0,0,0,0,,,0,,,0,1,,Southern Miss,WallRa20
+2001,6,Jason Doering,193,DB,2004,0,0,0,6,53,0,0,0,0,0,,,0,,,0,,,Wisconsin,DoerJa20
+2001,7,Rick DeMulling,220,G,2007,0,0,3,31,81,0,0,0,0,0,,,0,,,0,,,Idaho,DeMuRi20
+2000,1,Rob Morris,28,LB,2007,0,0,4,24,99,0,0,0,0,0,,,0,,,0,1,7.0,BYU,MorrRo20
+2000,2,Marcus Washington,59,LB,2008,0,1,8,53,131,0,0,0,0,0,,,0,,,0,3,37.5,Auburn,WashMa99
+2000,3,David Macklin,91,DB,2008,0,0,4,29,120,0,0,0,0,0,,,0,,,0,14,1.0,Penn St.,MackDa20
+2000,4,Josh Williams,122,DT,2005,0,0,2,19,73,0,0,0,0,0,,,0,,,0,,8.0,Michigan,WillJo30
+2000,5,Matt Johnson,138,G,,0,0,0,,,,,,,,,,,,,,,,BYU,-9999
+2000,7,Rob Renes,235,DT,,0,0,0,,,,,,,,,,,,,,,,Michigan,-9999
+2000,7,Rodregis Brooks,238,DB,2001,0,0,0,0,5,0,0,0,0,0,,,0,,,0,,,Ala-Birmingham,BrooRo20
+1999,1,Edgerrin James HOF,4,RB,2009,1,4,9,113,148,0,0,0,0,0,3028,12246,80,433,3364,11,,,Miami (FL),JameEd00
+1999,2,Mike Peterson,36,LB,2012,0,0,11,73,198,0,0,0,0,0,,,0,,,0,19,21.5,Florida,PeteMi20
+1999,3,Brandon Burlsworth,63,G,,0,0,0,,,,,,,,,,,,,,,,Arkansas,-9999
+1999,4,Paul Miranda,96,DB,2001,0,0,0,1,16,0,0,0,0,0,,,0,,,0,,,Central Florida,MiraPa20
+1999,5,Brad Scioli,138,DE,2004,0,0,2,14,80,0,0,0,0,0,,,0,,,0,,15.0,Penn St.,ScioBr20
+1999,7,Hunter Smith,210,P,2010,0,0,0,20,182,1,3,35,1,1,4,42,2,,,0,,,Notre Dame,SmitHu21
+1999,7,Corey Terry,250,LB,2000,0,0,0,1,15,0,0,0,0,0,,,0,,,0,,,Tennessee,TerrCo20
+1998,1,Peyton Manning HOF,1,QB,2015,7,14,17,176,266,6125,9380,71940,539,251,431,667,18,1,-2,0,,,Tennessee,MannPe00
+1998,2,Jerome Pathon,32,WR,2005,0,0,4,29,100,0,0,0,0,0,5,-7,0,260,3350,15,,,Washington,PathJe00
+1998,3,E.G. Green,71,WR,2000,0,0,0,7,29,0,0,0,0,0,,,0,54,665,2,,,Florida St.,GreeE.00
+1998,4,Steve McKinney,93,C,2007,0,0,8,52,143,0,0,0,0,0,,,0,1,5,0,,,Texas A&M,McKiSt20
+1998,5,Antony Jordan,135,LB,2001,0,0,0,1,27,0,0,0,0,0,,,0,,,0,,,Vanderbilt,JordAn20
+1998,7,Aaron Taylor,190,G,,0,0,0,,,,,,,,,,,,,,,,Nebraska,-9999
+1998,7,Corey Gaines,231,DB,,0,0,0,,,,,,,,,,,,,,,,Tennessee,-9999
+1997,1,Tarik Glenn,19,T,2006,0,3,10,87,154,0,0,0,0,0,,,0,1,3,0,,,California,GlenTa99
+1997,2,Adam Meadows,48,T,2006,0,0,6,51,106,0,0,0,0,0,,,0,,,0,,,Georgia,MeadAd20
+1997,3,Bertrand Berry,86,DE,2009,0,1,6,45,160,0,0,0,0,0,,,0,,,0,,65.0,Notre Dame,BerrBe99
+1997,4,Monty Montgomery,117,DB,2004,0,0,0,10,59,0,0,0,0,0,,,0,,,0,4,3.5,Houston,MontMo20
+1997,5,Nate Jacquet,150,WR,2001,0,0,0,1,55,0,0,0,0,0,1,4,0,10,165,0,,,San Diego St.,JacqNa00
+1997,5,Carl Powell,156,DE,2005,0,0,0,10,81,0,0,0,0,0,,,0,,,0,1,6.5,Louisville,PoweCa20
+1997,6,Scott Von der Ahe,182,LB,1997,0,0,0,1,9,0,0,0,0,0,,,0,,,0,,,Arizona St.,VondSc20
+1997,7,Clarence Thompson,219,DB,,0,0,0,,,,,,,,,,,,,,,,Knoxville,-9999
+1996,1,Marvin Harrison HOF,19,WR,2008,3,8,12,123,190,0,0,0,0,0,10,28,0,1102,14580,128,,,Syracuse,HarrMa00
+1996,2,Dedric Mathis,51,DB,1997,0,0,0,5,29,0,0,0,0,0,,,0,,,0,1,,Houston,MathDe20
+1996,3,Scott Slutzker,82,TE,1999,0,0,0,1,41,0,0,0,0,0,,,0,15,196,1,,,Iowa,SlutSc00
+1996,4,Brian Milne,115,RB,2000,0,0,2,3,63,0,0,0,0,0,36,126,4,57,324,1,,,Penn St.,MilnBr00
+1996,5,Steve Martin,151,DT,2004,0,0,3,26,127,0,0,0,0,0,,,0,,,0,,8.0,Missouri,MartSt21
+1996,6,Keith Conlin,191,T,,0,0,0,,,,,,,,,,,,,,,,Penn St.,-9999
+1996,6,Mike Cawley,205,QB,,0,0,0,,,,,,,,,,,,,,,,James Madison,-9999
+1996,7,Adrian Robinson,232,DB,,0,0,0,,,,,,,,,,,,,,,,Baylor,-9999
+1995,1,Ellis Johnson,15,DT,2004,0,0,5,35,149,0,0,0,0,0,,,0,,,0,3,51.0,Florida,JohnEl20
+1995,2,Ken Dilger,48,TE,2004,0,1,10,35,156,1,1,39,1,0,,,0,356,4099,24,,,Illinois,DilgKe00
+1995,3,Zack Crockett,79,FB,2007,0,0,5,13,175,0,0,0,0,0,510,1701,36,96,680,2,,,Florida St.,CrocZa00
+1995,4,Ray McElroy,114,DB,2001,0,0,0,7,81,0,0,0,0,0,,,0,,,0,,,East. Illinois,McElRa20
+1995,5,Derek West,149,T,1997,0,0,0,0,5,0,0,0,0,0,,,0,,,0,,,Colorado,WestDe20
+1995,6,Brian Gelzheiser,187,LB,,0,0,0,,,,,,,,,,,,,,,,Penn St.,-9999
+1995,7,Jessie Cox,223,LB,,0,0,0,,,,,,,,,,,,,,,,Texas Southern,-9999
+1994,1,Marshall Faulk HOF,2,RB,2005,3,7,11,132,176,0,2,0,0,0,2836,12279,100,767,6875,36,,,San Diego St.,FaulMa00
+1994,1,Trev Alberts,5,LB,1996,0,0,0,4,29,0,0,0,0,0,,,0,,,0,1,4.0,Nebraska,AlbeTr20
+1994,2,Eric Mahlum,32,G,1996,0,0,1,11,36,0,0,0,0,0,,,0,,,0,,,California,MahlEr20
+1994,3,Jason Mathews,67,T,2004,0,0,2,26,144,0,0,0,0,0,,,0,0,0,0,,,Texas A&M,MathJa21
+1994,4,Bradford Banta,106,TE,2004,0,0,0,0,156,0,0,0,0,0,,,0,2,13,0,,,USC,BantBr00
+1994,5,John Covington,133,DB,1994,0,0,0,0,3,0,0,0,0,0,,,0,,,0,,,Notre Dame,CoviJo20
+1994,6,Lamont Warren,164,RB,2002,0,0,0,16,96,0,4,0,0,1,287,922,8,146,1270,5,,,Colorado,WarrLa00
+1994,7,Lance Teichelman,196,DE,1994,0,0,0,0,1,0,0,0,0,0,,,0,,,0,,,Texas A&M,TeicLa20
+1993,1,Sean Dawkins,16,WR,2001,0,0,7,48,140,0,0,0,0,0,,,0,445,6291,25,,,California,DawkSe00
+1993,2,Roosevelt Potts,49,RB,1998,0,0,4,16,71,0,0,0,0,0,359,1475,1,106,863,4,,,La-Monroe,PottRo00
+1993,3,Ray Buchanan,65,DB,2004,0,1,10,63,184,0,0,0,0,0,,,0,,,0,47,3.5,Louisville,BuchRa00
+1993,4,Derwin Gray,92,DB,1998,0,0,0,6,67,0,0,0,0,0,,,0,,,0,1,,BYU,GrayDe20
+1993,4,Devon McDonald,107,LB,1996,0,0,0,5,63,0,0,0,0,0,,,0,,,0,,1.0,Notre Dame,McDoDe20
+1993,6,Carlos Etheredge,157,TE,1994,0,0,0,0,9,0,0,0,0,0,,,0,1,6,0,,,Miami (FL),EtheCa20
+1993,7,Lance Lewis,184,RB,,0,0,0,,,,,,,,,,,,,,,,Nebraska,-9999
+1993,8,Marquise Thomas,211,LB,,0,0,0,,,,,,,,,,,,,,,,Mississippi,-9999
