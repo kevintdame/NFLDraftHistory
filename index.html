@@ -609,8 +609,11 @@
         });
     }
 
-    generateCharts('csvFiles/CardinalsDraft.csv');
-    
+    document.addEventListener('DOMContentLoaded', async function() {
+        document.getElementById('chartTitle').textContent = `NFL Draft Value: Arizona Cardinals`;
+        await generateCharts('csvFiles/CardinalsDraft.csv');
+    });
+        
 </script>
 
 
